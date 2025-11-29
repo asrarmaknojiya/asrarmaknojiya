@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/215/215911.gif" width="100%" />
+  <img src="https://giffiles.alphacoders.com/215/215911.gif" width="60%" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Asrar Maknojiya</h1>
