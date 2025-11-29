@@ -81,7 +81,6 @@ like everything drifting in sync with the grind.
 
 - 🏢 **Real Estate Management System**
 - 🛒 **E-commerce Platform (Full CRUD)**
-- 🍰 **Sheetal Sweets & Bakery – Live Website**
 - 🗂 **User Profile Manager**
 - 🧵 **TailorConnect – Smart Tailor Finder**
 - 🔐 **JWT Authentication + Role Based Access System**
