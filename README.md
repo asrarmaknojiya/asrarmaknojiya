@@ -1,245 +1,269 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Asrar%20Maknojiya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Node.js&descAlignY=55&descSize=18"/>
+<img src="https://img.icons8.com/color/96/000000/graduation-cap.png" alt="Logo" width="96"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Asrar+%F0%9F%91%8B;Full-Stack+JavaScript+Developer;Java+Spring+Boot+Engineer;Building+Scalable+APIs+%26+Clean+UIs;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+# 🎓 Students Management System
+
+### A robust, production-ready RESTful API built with Java & Spring Boot
 
 <br/>
 
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-asrarmaknojiya.vercel.app-0A66C2?style=for-the-badge&logoColor=white)](https://asrarmaknojiya.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrar-maknojiya-b03a01326/)
-[![Gmail](https://img.shields.io/badge/Gmail-asrarjabir786@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asrarjabir786@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-asrarmaknojiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asrarmaknojiya)
+[![Java](https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.11-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Maven](https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Lombok](https://img.shields.io/badge/Lombok-Enabled-red?style=for-the-badge&logo=lombok&logoColor=white)](https://projectlombok.org/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=asrarmaknojiya&label=Profile+Views&color=0e75b6&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/asrarmaknojiya?label=Followers&style=flat-square&color=0e75b6)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square&logo=github-actions)](https://github.com/asrarmaknojiya/Students-Management-System-In-Java-Spring-Boot)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/asrarmaknojiya/Students-Management-System-In-Java-Spring-Boot/pulls)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 📋 Table of Contents
 
-```yaml
-Name        : Asrar Maknojiya
-Role        : Full-Stack Developer (JS + Java)
-Location    : India 🇮🇳
-Portfolio   : https://asrarmaknojiya.vercel.app
-Email       : asrarjabir786@gmail.com
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [API Endpoints](#-api-endpoints)
+- [Configuration](#-configuration)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-Focus       :
-  - Building scalable REST APIs with clean architecture
-  - Crafting smooth, responsive front-end UIs
-  - Designing MySQL schemas & JPA-powered backends
-  - Mobile development with React Native + Expo
+---
 
-Currently   :
-  - Deepening TypeScript & advanced React patterns
-  - Exploring RBAC, JWT security & multi-tenant systems
-  - Learning Spring Boot microservices
+## 🌟 Overview
 
-Philosophy  : "Write code that feels clean, calm, and purposeful."
-```
+The **Students Management System** is a fully-featured backend REST API built using **Java Spring Boot**. It provides a clean and scalable architecture for managing student records — including adding, updating, retrieving, and deleting student data — backed by a **MySQL** relational database.
+
+Designed with best practices in mind: layered architecture, validation, AOP-based cross-cutting concerns, and ORM via Spring Data JPA.
+
+---
+
+## ✨ Features
+
+| Feature | Description |
+|---|---|
+| 📝 **CRUD Operations** | Create, Read, Update, and Delete student records |
+| ✅ **Input Validation** | Request validation using Spring Validation (`@Valid`, constraints) |
+| 🛡️ **AOP Support** | Aspect-Oriented Programming for logging and cross-cutting concerns |
+| 🗄️ **JPA / Hibernate** | Seamless ORM with Spring Data JPA and Hibernate |
+| 🧹 **Clean Code** | Lombok annotations to eliminate boilerplate |
+| 🔌 **RESTful API** | Standard HTTP methods with meaningful status codes |
+| 🧪 **Testing Ready** | Spring Boot Test dependency configured |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### 🗄️ Database & Auth
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛒 Zepx — E-Commerce Platform</h3>
-      <p>A full-stack e-commerce web app with product listings, cart management, and order processing. React frontend + Node.js/Express backend.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <a href="https://github.com/asrarmaknojiya/zepx">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🎓 Students Management System</h3>
-      <p>Production-ready REST API for student records — full CRUD, JPA/Hibernate ORM, input validation, AOP logging, and MySQL.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
-      </p>
-      <a href="https://github.com/asrarmaknojiya/Students-Management-System-In-Java-Spring-Boot">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏢 Real Estate Management System</h3>
-      <p>Business-grade dashboard for property listings, agents & client inquiries with role-based access control and full CRUD operations.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-      <a href="https://github.com/asrarmaknojiya/realEsate">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%">
-      <h3>⛓️ Blockchain Applications</h3>
-      <p>Decentralized app (dApp) exploration with TypeScript — smart contract interaction, Web3 integration, and blockchain fundamentals.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </p>
-      <a href="https://github.com/asrarmaknojiya/Block-chain-applications">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📱 Quran Surah App</h3>
-      <p>Cross-platform mobile app for reading Quran surahs. Built with React Native + Expo, featuring clean UI and smooth mobile navigation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🧵 TailorConnect</h3>
-      <p>Smart tailor-finder platform connecting customers with tailors — location-based discovery, booking flows, and profile management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats-two.vercel.app?user=asrarmaknojiya&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asrarmaknojiya&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-| Area | Focus |
+| Layer | Technology |
 |---|---|
-| ⚛️ Frontend | Deep TypeScript & Advanced React Patterns |
-| 🔐 Security | Backend Security, RBAC, Clean Architecture |
-| 📱 Mobile | React Native + Expo |
-| 🧭 Systems | Multi-Domain White-Label Platforms |
-| 🌱 Java | Spring Boot Microservices |
-| ☁️ DevOps | Cloud Deployment & CI/CD Pipelines |
+| ☕ **Language** | Java 25 (Preview Features Enabled) |
+| 🌱 **Framework** | Spring Boot 3.5.11 |
+| 🗃️ **ORM** | Spring Data JPA + Hibernate |
+| 🗄️ **Database** | MySQL |
+| 🧩 **Build Tool** | Apache Maven |
+| 🔧 **Utilities** | Lombok, Spring AOP |
+| ✔️ **Validation** | Spring Boot Starter Validation |
+| 🧪 **Testing** | Spring Boot Starter Test |
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📁 Project Structure
+
+```
+Students-Management-System/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/com/example/SMS/
+│   │   │   ├── controller/       # REST Controllers (API layer)
+│   │   │   ├── service/          # Business logic layer
+│   │   │   ├── repository/       # JPA Repositories (Data access layer)
+│   │   │   ├── model/            # Entity classes
+│   │   │   ├── dto/              # Data Transfer Objects
+│   │   │   └── SmsApplication.java
+│   │   └── resources/
+│   │       └── application.properties
+│   └── test/
+│       └── java/com/example/SMS/
+│
+├── .mvn/wrapper/
+├── pom.xml
+├── mvnw
+├── mvnw.cmd
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- ![Java](https://img.shields.io/badge/JDK-25+-ED8B00?style=flat-square&logo=openjdk) &nbsp; Java Development Kit 25+
+- ![Maven](https://img.shields.io/badge/Maven-3.8+-C71A36?style=flat-square&logo=apachemaven) &nbsp; Apache Maven 3.8+
+- ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat-square&logo=mysql) &nbsp; MySQL Server 8.0+
+- ![Git](https://img.shields.io/badge/Git-Latest-F05032?style=flat-square&logo=git) &nbsp; Git
+
+---
+
+### 📦 Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/asrarmaknojiya/Students-Management-System-In-Java-Spring-Boot.git
+cd Students-Management-System-In-Java-Spring-Boot
+```
+
+**2. Create the MySQL database**
+
+```sql
+CREATE DATABASE students_db;
+```
+
+**3. Configure `application.properties`**
+
+```properties
+spring.datasource.url=jdbc:mysql://localhost:3306/students_db
+spring.datasource.username=your_mysql_username
+spring.datasource.password=your_mysql_password
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+```
+
+**4. Build the project**
+
+```bash
+./mvnw clean install
+```
+
+> On Windows, use `mvnw.cmd clean install`
+
+**5. Run the application**
+
+```bash
+./mvnw spring-boot:run
+```
+
+The server will start on **`http://localhost:8080`** 🎉
+
+---
+
+## 📡 API Endpoints
+
+Base URL: `http://localhost:8080/api/students`
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| `GET` | `/` | Retrieve all students |
+| `GET` | `/{id}` | Get a student by ID |
+| `POST` | `/` | Add a new student |
+| `PUT` | `/{id}` | Update an existing student |
+| `DELETE` | `/{id}` | Delete a student |
+
+### 📝 Sample Request — Create Student
+
+```json
+POST /api/students
+Content-Type: application/json
+
+{
+  "firstName": "Asrar",
+  "lastName": "Maknojiya",
+  "email": "asrar@example.com",
+  "phone": "9876543210",
+  "course": "Computer Science"
+}
+```
+
+### 📤 Sample Response
+
+```json
+{
+  "id": 1,
+  "firstName": "Asrar",
+  "lastName": "Maknojiya",
+  "email": "asrar@example.com",
+  "phone": "9876543210",
+  "course": "Computer Science"
+}
+```
+
+---
+
+## ⚙️ Configuration
+
+Key properties in `src/main/resources/application.properties`:
+
+```properties
+# Server
+server.port=8080
+
+# Database
+spring.datasource.url=jdbc:mysql://localhost:3306/students_db
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+# JPA / Hibernate
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.properties.hibernate.format_sql=true
+spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions are warmly welcome! Here's how to get involved:
+
+1. **Fork** the repository
+2. **Create** your feature branch: `git checkout -b feature/amazing-feature`
+3. **Commit** your changes: `git commit -m 'Add some amazing feature'`
+4. **Push** to the branch: `git push origin feature/amazing-feature`
+5. **Open** a Pull Request
+
+Please make sure your code follows clean code principles and includes relevant tests.
+
+---
+
+## 👨‍💻 Author
 
 <div align="center">
 
-<a href="https://asrarmaknojiya.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/asrar-maknojiya-b03a01326/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:asrarjabir786@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/asrarmaknojiya">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**Asrar Maknojiya**
 
-<br/><br/>
+[![GitHub](https://img.shields.io/badge/GitHub-asrarmaknojiya-181717?style=for-the-badge&logo=github)](https://github.com/asrarmaknojiya)
 
-> 💬 *"Write code that feels clean, calm, and purposeful — like everything drifting in sync with the grind."*
+</div>
 
-<br/>
+---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+<div align="center">
+
+⭐ **If you found this project helpful, please give it a star!** ⭐
+
+Made with ❤️ using Java & Spring Boot
 
 </div>
