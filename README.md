@@ -1,117 +1,171 @@
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/215/215911.gif" width="100%" height="200px" alt="Banner"/>
+
+```
+ █████╗ ███████╗██████╗  █████╗ ██████╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗
+███████║███████╗██████╔╝███████║██████╔╝
+██╔══██║╚════██║██╔══██╗██╔══██║██╔══██╗
+██║  ██║███████║██║  ██║██║  ██║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+### `< Full-Stack JavaScript Developer />`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6EE7B7&center=true&vCenter=true&width=600&lines=Building+scalable+APIs+%26+smooth+UIs;React+%2B+Node+%2B+Express+%2B+MySQL;Clean+code.+Real+products.+Always+shipping." alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-asrarmaknojiya.vercel.app-6EE7B7?style=flat-square)](https://asrarmaknojiya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/asrar-maknojiya-b03a01326/)
+[![Gmail](https://img.shields.io/badge/Gmail-asrarjabir786-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asrarjabir786@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-asrarmaknojiya-181717?style=flat-square&logo=github)](https://github.com/asrarmaknojiya)
+
+<img src="https://komarev.com/ghpvc/?username=asrarmaknojiya&style=flat-square&color=6EE7B7" />
+
 </div>
 
-<h1 align="center">👋 Hey, I'm Asrar Maknojiya</h1>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+JavaScript+Developer;React+%2B+Node+Developer;MySQL+Expert;API+Architect;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</p>
+## 👨‍💻 About Me
+
+Hey! I'm **Asrar Maknojiya** — a passionate Full-Stack JS developer from India.
+
+I specialize in building real-world, production-grade applications that solve actual problems — from e-commerce engines to real estate platforms and custom dashboards.
+
+- 🔭 Currently working on **full-stack web apps** with React + Node
+- 🌱 Deep-diving into **TypeScript**, **Next.js**, and **clean architecture**
+- 💬 Ask me about **JavaScript, REST APIs, MySQL, React, Node.js**
+- ⚡ Fun fact: I learn best by building real projects from scratch
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack
 
-I'm a **Full-Stack JavaScript Developer** crafting smooth UIs and powerful backends.  
-I build business-grade dashboards, scalable APIs, e-commerce engines, and real-estate systems.
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-I love writing code that feels clean, calm, and purposeful —  
-like everything drifting in sync with the grind.
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+
+  </td>
+  <td valign="top" width="33%">
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+
+  </td>
+  <td valign="top" width="33%">
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=flat-square&logo=figma&logoColor=white)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## 💡 What I Do
+## 🚀 Featured Repositories
 
-- 🧩 Full-stack apps (**React + Node + Express**)
-- 📦 Scalable APIs with clean architecture
-- 🛒 E-commerce platforms
-- 🏢 Real estate management dashboards
-- 🧪 API testing with Axios
-- 🗄️ MySQL database design & optimization
-- 🔐 JWT Auth + RBAC systems
+<div align="center">
 
----
+<a href="https://github.com/asrarmaknojiya/zepx">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asrarmaknojiya&repo=zepx&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/asrarmaknojiya/my_portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asrarmaknojiya&repo=my_portfolio&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/asrarmaknojiya/javascript">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asrarmaknojiya&repo=javascript&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/asrarmaknojiya/realEsate">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=asrarmaknojiya&repo=realEsate&theme=tokyonight&hide_border=true" />
+</a>
 
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-## 🧰 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-two.vercel.app?user=asrarmaknojiya&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</div>
 
----
-
-## 🚀 Projects I've Built
-
-| 🔖 Project | 📝 Description |
-|---|---|
-| 🏢 **Real Estate Management System** | Full-stack platform for managing property listings & users |
-| 🛒 **E-commerce Platform** | Complete store with CRUD, cart, and order management |
-| 🗂 **User Profile Manager** | Dynamic user management with role-based access |
-| 🧵 **TailorConnect** | Smart tailor finder app connecting customers & tailors |
-| 🔐 **JWT Auth + RBAC System** | Secure authentication with role-based access control |
-| 💼 **Portfolio Website** | Personal dev portfolio built with React + TypeScript |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asrarmaknojiya&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🏗️ What I've Built
 
-- ⚛ Deep TypeScript + Advanced React patterns
-- 🔐 Backend security, RBAC, clean architecture
-- 🧭 Multi-domain white-label systems
-- 📐 UI/UX design principles with Figma
+```
+ ┌──────────────────────────────────────────────────────────────┐
+ │  🛒  ZEPX           — Full-stack E-Commerce Platform         │
+ │       React + Node + Express + MySQL + JWT Auth              │
+ │                                                              │
+ │  🏢  Real Estate    — Property Management Dashboard          │
+ │       React + Express + MySQL + Role-Based Access            │
+ │                                                              │
+ │  💼  Portfolio      — Personal Dev Portfolio                 │
+ │       Next.js + TypeScript + Tailwind (live on Vercel)       │
+ │                                                              │
+ │  📚  JavaScript     — JS Fundamentals + Mini Projects        │
+ │       Vanilla JS — clearing every concept with code          │
+ │                                                              │
+ │  🧵  TailorConnect  — Smart Tailor Finder App                │
+ │       Full-stack with booking & profile management           │
+ │                                                              │
+ │  🔐  Auth System    — JWT + RBAC Security Layer              │
+ │       Role-based routing, protected APIs, token refresh      │
+ └──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🔗 Connect With Me
+## 🌱 Currently Learning
 
-<p align="left">
-  <a href="https://asrarmaknojiya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/asrar-maknojiya-b03a01326/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Asrar%20Maknojiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:asrarjabir786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asrarjabir786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/asrarmaknojiya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-asrarmaknojiya-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```js
+const asrar = {
+  currentlyLearning : ["TypeScript (deep)", "Next.js App Router", "Clean Architecture"],
+  exploring         : ["White-label multi-tenant systems", "Advanced MySQL optimization"],
+  openTo            : ["Freelance projects", "Open source collaboration"],
+  goal              : "Ship production-grade full-stack apps that matter"
+};
+```
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=asrarmaknojiya&color=00F7FF&style=for-the-badge" alt="Profile Views" />
+
+### 💬 Let's Connect & Build Something Great!
+
+*"Code is not just syntax — it's the way I think, create, and solve."*
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-6EE7B7?style=for-the-badge)](https://asrarmaknojiya.vercel.app/)
+
 </div>
