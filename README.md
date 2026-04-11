@@ -144,13 +144,7 @@ Security (JWT + RBAC + Middleware)
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asrarmaknojiya&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
----
 
 ## 📈 Contribution Flow
 
@@ -158,15 +152,7 @@ Security (JWT + RBAC + Middleware)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asrarmaknojiya&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🧠 Language Distribution
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
-
----
+--
 
 ## 🚀 Current Grind
 
