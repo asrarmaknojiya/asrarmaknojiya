@@ -178,9 +178,16 @@ To build systems that are:
 
 ---
 
-## 🤝 Connect
+## 🔗 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/asrar-maknojiya-b03a01326/
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-asrarmaknojiya.vercel.app-1abc9c?style=for-the-badge)](https://asrarmaknojiya.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asrar_Maknojiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrar-maknojiya-b03a01326/)
+[![Email](https://img.shields.io/badge/Email-asrarjabir786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asrarjabir786@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-asrarmaknojiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asrarmaknojiya)
+
+</div>
 
 ---
 
