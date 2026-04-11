@@ -1,150 +1,186 @@
 # 🚀 Asrar Maknojiya
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next+%7C+Node+%7C+Java;Building+Real+World+Systems;Clean+Code+%2B+Scalable+Architecture" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;React+%7C+Next+%7C+Node+%7C+Spring+Boot;Scalable+Systems+%7C+Clean+Architecture;Building+Real+World+Products" />
+</p>
 
 ---
 
-## 🌿 About Me
+## 🌌 Identity
 
-I don’t just write code… I build **systems that breathe**.
+I don’t build random apps…
+I build **systems that scale, secure, and survive production**.
 
-⚡ Full-Stack Developer focused on crafting **real-world scalable apps**
-🧠 Obsessed with **clean architecture, security & performance**
-🔥 Building dashboards, APIs, and full ecosystems — not just pages
+* ⚡ Full Stack Engineer (MERN + Java Spring Boot)
+* 🧠 Strong in **system design & backend architecture**
+* 🔐 Security-first mindset (JWT, RBAC, middleware control)
+* 🏗️ Writing code that stays clean even at scale
 
-> *“Code should feel like poetry… structured, calm, and powerful.”*
-
----
-
-## 🧩 What I Build
-
-* 🛒 Full-scale **E-commerce Platforms** (Cart, Orders, Auth, Admin)
-* 🏢 **Real Estate Systems** with dashboards & role-based flows
-* 🔐 Secure **JWT Auth + RBAC architectures**
-* ⚙️ Scalable **REST APIs** with structured backend layers
-* 🌐 Multi-domain **White-label platforms**
-* 📊 Business dashboards with analytics
+> *“Anyone can code. Few can architect.”*
 
 ---
 
-## ⚙️ Tech Stack
-
-### 💻 Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge\&logo=tailwind-css)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge\&logo=springboot)
-
-### 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
-
-### 🧠 Tools
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-
----
-
-## 🧠 Architecture Mindset
+## 🧠 Core Engineering Focus
 
 ```js
 const asrar = {
-  codeStyle: "Clean + Scalable",
-  architecture: ["MVC", "Layered", "Modular"],
-  focus: ["Security", "Performance", "Real-world systems"],
-  backend: "Structured APIs with proper controllers & middleware",
-  frontend: "Reusable components + smooth UX",
+  role: "Full Stack Engineer",
+  strengths: [
+    "Backend Architecture",
+    "System Design",
+    "Authentication & Security",
+    "Scalable APIs",
+  ],
+  philosophy: "Build like it's going to handle 1M users tomorrow",
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Tech Universe
 
-### 🛒 Zepx — E-commerce Platform
+### 🚀 Frontend
 
-* Full-stack system with cart, orders, admin dashboard
-* Role-based access & authentication
-* Built using React + Node + MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
+</p>
 
----
+### ⚙️ Backend
 
-### 🏢 Real Estate Management System
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
 
-* Property listings + dashboard analytics
-* Role-based views (admin / users)
-* Structured backend architecture
+### 🗄️ Database & Tools
 
----
-
-### 🔐 JWT Auth + RBAC System
-
-* Secure authentication system
-* Role-based route protection
-* Token-based session handling
-
----
-
-### 👤 User Management System
-
-* Full CRUD operations
-* Scalable API structure
-* Clean separation of concerns
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrarmaknojiya&theme=tokyonight&hide_border=true" height="150"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vercel" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 🏗️ Full Stack Architecture Style
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asrarmaknojiya&theme=tokyo-night&hide_border=true"/>
+```
+Client (React / Next)
+        ↓
+API Layer (Express / Spring Boot)
+        ↓
+Business Logic (Services Layer)
+        ↓
+Database (MySQL)
+        ↓
+Security (JWT + RBAC + Middleware)
+```
 
----
-
-## 🌌 Current Focus
-
-* ⚡ Advanced React & TypeScript patterns
-* 🔐 Backend security & authentication systems
-* 🧠 Scalable system design
-* 🚀 Production-level architecture
-
----
-
-## 🤝 Connect With Me
-
-* 🌐 Portfolio: *Coming Soon*
-* 💼 LinkedIn: *Add your link*
-* 📧 Email: *Add your email*
+✔ Clean folder structure
+✔ Separation of concerns
+✔ Scalable & maintainable codebase
 
 ---
 
-## 🧠 Dev Philosophy
+## 🔥 Featured Full Stack Projects
 
-> *Build things that people actually use.*
-> *Write code that future you will respect.*
-> *Ship fast, but design like it’s forever.*
+### 🛒 E-commerce System (Full Stack)
+
+* Complete cart, checkout, and order flow
+* Admin dashboard with product & user control
+* Secure authentication system
+* Tech: React + Node + MySQL
 
 ---
+
+### 🏢 Real Estate Platform
+
+* Property listing + filtering system
+* Admin panel with analytics
+* Role-based user flows
+* Clean backend architecture
+
+---
+
+### 🔐 Authentication & RBAC System
+
+* JWT-based login system
+* Role-based route protection
+* Middleware-controlled access
+* Production-ready auth flow
+
+---
+
+## ☕ Spring Boot Projects (Backend Heavy)
+
+### 📚 Course / User Management System
+
+* Built with **Spring Boot + JPA**
+* REST APIs with layered architecture
+* Entity → Repository → Service → Controller
+* Strong validation & structured responses
+
+---
+
+### 🔐 Secure Backend APIs
+
+* Authentication handling in Java
+* Structured exception handling
+* Clean service-based logic separation
+
+---
+
+## 📊 GitHub Power
 
 <p align="center">
-  ⚡ “Not chasing trends — building systems that last.” ⚡
+  <img src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrarmaknojiya&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📈 Contribution Flow
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asrarmaknojiya&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 🧠 Language Distribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Current Grind
+
+* ⚡ Advanced React patterns & performance
+* ☕ Deep dive into Spring Boot architecture
+* 🔐 Secure authentication systems
+* 🧠 Scaling backend for real-world apps
+
+---
+
+## 🌍 Vision
+
+To build systems that are:
+
+* ⚡ Fast
+* 🔐 Secure
+* 🧠 Smart
+* 🚀 Scalable
+
+---
+
+## 🤝 Connect
+
+* 💼 LinkedIn: (Add your link)
+* 📧 Email: (Add your email)
+
+---
+
+## ⚡ Final Note
+
+> *Code is temporary. Architecture is legacy.*
+
+<p align="center">
+  🔥 Full Stack isn’t a role — it’s a responsibility 🔥
 </p>
