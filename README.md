@@ -172,8 +172,8 @@ To build systems that are:
 
 ## 🤝 Connect
 
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn:https://www.linkedin.com/in/asrar-maknojiya-b03a01326/
+
 
 ---
 
