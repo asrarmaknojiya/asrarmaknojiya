@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;React+%7C+Next+%7C+Node+%7C+Spring+Boot;Scalable+Systems+%7C+Clean+Architecture;Building+Real+World+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;React+%7C+Next+%7C+Node+%7C+Spring+Boot;Scalable+Systems+%7C+Clean+Architecture;Building+Real+World+Products" />
 </p>
 
 <p align="center">
@@ -22,8 +22,6 @@ I build **real-world production systems** — scalable, secure, and structured.
 * 🧠 Backend architecture & system design focus
 * 🔐 JWT Authentication + RBAC specialist
 * 🏗️ Clean, modular, scalable code practices
-
-> *“Think like an architect. Build like an engineer.”*
 
 ---
 
@@ -46,68 +44,16 @@ Service Layer (Business Logic)
         ↓
 Database (MySQL)
         ↓
-Security Layer (JWT + RBAC + Middleware)
+Security (JWT + RBAC + Middleware)
 ```
-
-✔ Clean Architecture
-✔ Separation of Concerns
-✔ Scalable Backend Design
-
----
-
-## 🔥 Featured Full Stack Projects
-
-### 🛒 E-commerce Platform
-
-* Cart, Orders, Checkout System
-* Admin Dashboard (Products, Users, Orders)
-* Secure Authentication + Role Management
-* Stack: React + Node.js + MySQL
-
----
-
-### 🏢 Real Estate Management System
-
-* Property Listings + Filtering
-* Admin Analytics Dashboard
-* Role-Based Access Control
-* Scalable backend structure
-
----
-
-### 🔐 Authentication & RBAC System
-
-* JWT Token-Based Authentication
-* Protected Routes & Middleware
-* Role-based Authorization System
-* Production-ready security setup
-
----
-
-## ☕ Spring Boot Backend Projects
-
-### 📚 Course / User Management System
-
-* Built with **Spring Boot + JPA + Hibernate**
-* Layered architecture (Controller → Service → Repository)
-* Validation + Exception Handling
-* Clean REST API design
-
----
-
-### 🔐 Secure Java Backend APIs
-
-* Authentication logic using Java
-* Structured service-based logic
-* Scalable & maintainable backend
 
 ---
 
 ## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=asrarmaknojiya&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=asrarmaknojiya&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
 ---
@@ -115,7 +61,7 @@ Security Layer (JWT + RBAC + Middleware)
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asrarmaknojiya&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asrarmaknojiya&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
@@ -131,17 +77,17 @@ Security Layer (JWT + RBAC + Middleware)
 ## 🧠 Language Usage
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🚀 Current Focus
 
-* ⚡ Advanced React & TypeScript patterns
-* ☕ Deep dive into Spring Boot architecture
-* 🔐 Secure authentication & backend protection
-* 🧠 Scalable system design
+* ⚡ Advanced React & TypeScript
+* ☕ Spring Boot backend architecture
+* 🔐 Secure authentication systems
+* 🧠 Scalable backend design
 
 ---
 
@@ -156,7 +102,7 @@ Security Layer (JWT + RBAC + Middleware)
 > Code is temporary. Architecture is legacy.
 
 <p align="center">
-🔥 Full Stack isn’t a role — it’s responsibility 🔥
+🔥 Build systems, not just features 🔥
 </p>
 
 <p align="center">
