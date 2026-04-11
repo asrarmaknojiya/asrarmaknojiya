@@ -1,51 +1,56 @@
-![Coding GIF](https://giffiles.alphacoders.com/215/215911.gif)
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/215/215911.gif" width="100%" alt="coding gif"/>
+</div>
 
-# 👋 Hey, I'm Hammad Imran
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Java+%2B+Spring+Boot+Developer;React+%2B+Next.js+Frontend+Engineer;MySQL+Expert%3B+API+Architect;Always+Learning%2C+Always+Shipping)](https://github.com/hammad04x)
+# 👋 Hi, I'm Asrar Maknojiya
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+JavaScript+Developer;React+%2B+Node.js+%2B+Express+Builder;MySQL+Expert+%7C+API+Architect;Mobile+Dev+with+React+Native+%2B+Expo;Always+Learning%2C+Always+Shipping+🚀)](https://asrarmaknojiya.vercel.app)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack Developer** building robust backends with **Java + Spring Boot** and clean frontends with **React + Next.js**.  
-I architect layered REST APIs, scalable e-commerce systems, real estate platforms,  
-and I deploy everything to **live production servers** — not just localhost.
+I'm a **Full-Stack JavaScript Developer** who loves building smooth UIs and powerful backends.
+I craft business-grade dashboards, scalable APIs, e-commerce engines, and real-estate systems —
+and recently stepped into **mobile apps with React Native + Expo**.
 
-I write code that's clean, structured, and intentional —  
-every project I touch ships with real features, real auth, and real deployments.
+I write code that feels clean, calm, and purposeful.
+Every project ships with real features, real auth, and real thought behind it.
 
 ---
 
 ## 💡 What I Do
 
-- 🏗️ Full-stack apps (**Spring Boot + React + Node.js**)
-- 📦 Production REST APIs with layered clean architecture
-- 🛒 E-commerce platforms with real payment gateways
+- 🧩 Full-stack apps with **React + Node.js + Express**
+- 📦 Scalable APIs with clean, layered architecture
+- 🛒 E-commerce platforms with full CRUD & payments
 - 🏢 Real estate management dashboards
-- 🔐 JWT Auth + Role Based Access Control systems
+- 🔐 JWT Auth + Role Based Access Control (RBAC)
 - 🗄️ MySQL database design & optimization
-- 🚀 VPS deployments on **Hostinger** (live backends)
-- 🧪 API testing & documentation with Postman
+- 🧪 API testing with Axios & Postman
+- 📱 Mobile apps with **React Native + Expo**
+- 🌐 Multi-domain white-label systems
 
 ---
 
 ## 🛠 Tech Stack
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
-![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ---
 
@@ -55,52 +60,66 @@ every project I touch ships with real features, real auth, and real deployments.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Hostinger VPS](https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-red?style=for-the-badge&logo=java&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1ABCFE?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hammad04x&show_icons=true&theme=tokyonight)](https://github.com/hammad04x)
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-two.vercel.app?user=hammad04x&theme=tokyonight)](https://github.com/hammad04x)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="48%" />
 
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hammad04x&layout=compact&theme=tokyonight)](https://github.com/hammad04x)
+<img src="https://github-readme-streak-stats-two.vercel.app?user=asrarmaknojiya&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="40%" />
+
+</div>
 
 ---
 
 ## 🚀 Projects I've Built
 
-- 🛍️ **Zepx — Full-Stack E-Commerce Platform** (React + Node.js + Razorpay + Google OAuth, live on VPS)
-- 🎓 **Student Management System** (Spring Boot 3 + JPA + MySQL, full REST API with Postman collection)
-- 🏡 **Real Estate Platform** (React + Node.js + Role-Based Access Control)
-- 💸 **Expense Management System** (Full-stack, categorized records + dashboard)
-- 💼 **Developer Portfolio** (TypeScript + React, deployed on Vercel)
+- 🛍️ **Zepx** — Full-stack e-commerce platform (React + Node.js + Express + MySQL)
+- 🏡 **Real Estate Management System** — Listings, dashboards, role-based views
+- 🧵 **TailorConnect** — Smart tailor finder with booking & profile management
+- 🗂️ **User Profile Manager** — CRUD-based user management system
+- 🔐 **JWT Auth + RBAC System** — Secure authentication with role-based access
+- 📖 **Quran Surah App** — Mobile app built with React Native + Expo
+- 💼 **Portfolio** — Personal dev portfolio at [asrarmaknojiya.vercel.app](https://asrarmaknojiya.vercel.app)
 
 ---
 
-## 🌱 Currently Building Toward
+## 🌱 Currently Exploring
 
-- ☕ Deep Java fundamentals & Data Structures + Algorithms
-- 🏗️ Large-scale Spring Boot system design
-- 🚗 Automotive Marketplace Platform (Next.js)
-- 🔐 Advanced backend security & clean architecture patterns
-- 🎯 Backend engineering role at a high-impact company
+- ⚛️ Deep TypeScript + Advanced React patterns
+- 🔐 Backend security, RBAC, clean architecture
+- 📱 Mobile development with React Native + Expo
+- 🧭 Multi-domain white-label systems
+- 🏗️ Scalable full-stack system design
 
 ---
 
 ## 🔗 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jagaralahammad.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-hammad04x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hammad04x)
-[![Location](https://img.shields.io/badge/📍_Gujarat,_India-EA4335?style=for-the-badge)](https://github.com/hammad04x)
-[![Profile Views](https://komarev.com/ghpvc/?username=hammad04x&color=007bff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/hammad04x)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-asrarmaknojiya.vercel.app-1abc9c?style=for-the-badge)](https://asrarmaknojiya.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asrar_Maknojiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asrar-maknojiya-b03a01326/)
+[![Email](https://img.shields.io/badge/Email-asrarjabir786@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asrarjabir786@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-asrarmaknojiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asrarmaknojiya)
+
+</div>
 
 ---
 
-[![GitHub](https://raw.githubusercontent.com/aleen42/badges/master/src/github.svg)](https://github.com/hammad04x)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asrarmaknojiya&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00F7FF&height=80&section=footer" width="100%"/>
+</div>
