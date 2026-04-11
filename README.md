@@ -135,14 +135,18 @@ Security (JWT + RBAC + Middleware)
 
 ---
 
-## 📊 GitHub Power
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=asrarmaknojiya&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="48%" />
+
+<img src="https://github-readme-streak-stats-two.vercel.app?user=asrarmaknojiya&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" width="40%" />
+
+</div>
+
 
 
 
