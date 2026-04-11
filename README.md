@@ -1,186 +1,164 @@
 # 🚀 Asrar Maknojiya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;React+%7C+Next+%7C+Node+%7C+Spring+Boot;Scalable+Systems+%7C+Clean+Architecture;Building+Real+World+Products" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=220&section=header&text=Asrar%20Maknojiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Engineer;React+%7C+Next+%7C+Node+%7C+Spring+Boot;Scalable+Systems+%7C+Clean+Architecture;Building+Real+World+Products" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=asrarmaknojiya&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🌌 Identity
 
-I don’t build random apps…
-I build **systems that scale, secure, and survive production**.
+I build **real-world production systems** — scalable, secure, and structured.
 
-* ⚡ Full Stack Engineer (MERN + Java Spring Boot)
-* 🧠 Strong in **system design & backend architecture**
-* 🔐 Security-first mindset (JWT, RBAC, middleware control)
-* 🏗️ Writing code that stays clean even at scale
+* ⚡ Full Stack Engineer (MERN + Spring Boot)
+* 🧠 Backend architecture & system design focus
+* 🔐 JWT Authentication + RBAC specialist
+* 🏗️ Clean, modular, scalable code practices
 
-> *“Anyone can code. Few can architect.”*
-
----
-
-## 🧠 Core Engineering Focus
-
-```js
-const asrar = {
-  role: "Full Stack Engineer",
-  strengths: [
-    "Backend Architecture",
-    "System Design",
-    "Authentication & Security",
-    "Scalable APIs",
-  ],
-  philosophy: "Build like it's going to handle 1M users tomorrow",
-};
-```
+> *“Think like an architect. Build like an engineer.”*
 
 ---
 
-## ⚙️ Tech Universe
+## ⚙️ Tech Stack
 
-### 🚀 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,express,java,spring,mysql,git,github,postman,vercel" />
 </p>
 
 ---
 
-## 🏗️ Full Stack Architecture Style
+## 🏗️ System Architecture
 
-```
-Client (React / Next)
+```text
+Frontend (React / Next)
         ↓
-API Layer (Express / Spring Boot)
+API Layer (Node.js / Spring Boot)
         ↓
-Business Logic (Services Layer)
+Service Layer (Business Logic)
         ↓
 Database (MySQL)
         ↓
-Security (JWT + RBAC + Middleware)
+Security Layer (JWT + RBAC + Middleware)
 ```
 
-✔ Clean folder structure
-✔ Separation of concerns
-✔ Scalable & maintainable codebase
+✔ Clean Architecture
+✔ Separation of Concerns
+✔ Scalable Backend Design
 
 ---
 
 ## 🔥 Featured Full Stack Projects
 
-### 🛒 E-commerce System (Full Stack)
+### 🛒 E-commerce Platform
 
-* Complete cart, checkout, and order flow
-* Admin dashboard with product & user control
-* Secure authentication system
-* Tech: React + Node + MySQL
+* Cart, Orders, Checkout System
+* Admin Dashboard (Products, Users, Orders)
+* Secure Authentication + Role Management
+* Stack: React + Node.js + MySQL
 
 ---
 
-### 🏢 Real Estate Platform
+### 🏢 Real Estate Management System
 
-* Property listing + filtering system
-* Admin panel with analytics
-* Role-based user flows
-* Clean backend architecture
+* Property Listings + Filtering
+* Admin Analytics Dashboard
+* Role-Based Access Control
+* Scalable backend structure
 
 ---
 
 ### 🔐 Authentication & RBAC System
 
-* JWT-based login system
-* Role-based route protection
-* Middleware-controlled access
-* Production-ready auth flow
+* JWT Token-Based Authentication
+* Protected Routes & Middleware
+* Role-based Authorization System
+* Production-ready security setup
 
 ---
 
-## ☕ Spring Boot Projects (Backend Heavy)
+## ☕ Spring Boot Backend Projects
 
 ### 📚 Course / User Management System
 
-* Built with **Spring Boot + JPA**
-* REST APIs with layered architecture
-* Entity → Repository → Service → Controller
-* Strong validation & structured responses
+* Built with **Spring Boot + JPA + Hibernate**
+* Layered architecture (Controller → Service → Repository)
+* Validation + Exception Handling
+* Clean REST API design
 
 ---
 
-### 🔐 Secure Backend APIs
+### 🔐 Secure Java Backend APIs
 
-* Authentication handling in Java
-* Structured exception handling
-* Clean service-based logic separation
+* Authentication logic using Java
+* Structured service-based logic
+* Scalable & maintainable backend
 
 ---
 
 ## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asrarmaknojiya&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asrarmaknojiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=asrarmaknojiya&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 📈 Contribution Flow
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asrarmaknojiya&theme=tokyo-night&hide_border=true" />
-
----
-
-## 🧠 Language Distribution
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asrarmaknojiya&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🚀 Current Grind
+## 📈 Contribution Graph
 
-* ⚡ Advanced React patterns & performance
-* ☕ Deep dive into Spring Boot architecture
-* 🔐 Secure authentication systems
-* 🧠 Scaling backend for real-world apps
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asrarmaknojiya&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-## 🌍 Vision
+## 🧠 Language Usage
 
-To build systems that are:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asrarmaknojiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
-* ⚡ Fast
-* 🔐 Secure
-* 🧠 Smart
-* 🚀 Scalable
+---
+
+## 🚀 Current Focus
+
+* ⚡ Advanced React & TypeScript patterns
+* ☕ Deep dive into Spring Boot architecture
+* 🔐 Secure authentication & backend protection
+* 🧠 Scalable system design
 
 ---
 
 ## 🤝 Connect
 
-* 💼 LinkedIn:https://www.linkedin.com/in/asrar-maknojiya-b03a01326/
-
+* 💼 LinkedIn: https://www.linkedin.com/in/asrar-maknojiya-b03a01326/
 
 ---
 
-## ⚡ Final Note
+## ⚡ Philosophy
 
-> *Code is temporary. Architecture is legacy.*
+> Code is temporary. Architecture is legacy.
 
 <p align="center">
-  🔥 Full Stack isn’t a role — it’s a responsibility 🔥
+🔥 Full Stack isn’t a role — it’s responsibility 🔥
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
 </p>
