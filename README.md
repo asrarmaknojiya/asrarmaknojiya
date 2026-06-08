@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;React+%7C+Next+%7C+Node+%7C+Spring+Boot;Scalable+Systems+%7C+Clean+Architecture;Building+Real+World+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;React+%7C+Next+%7C+Node+%7C;Scalable+Systems+%7C+Clean+Architecture;Building+Real+World+Products" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 I don’t build random apps…
 I build **systems that scale, secure, and survive production**.
 
-* ⚡ Full Stack Engineer (MERN + Java Spring Boot)
+* ⚡ Full Stack Engineer 
 * 🧠 Strong in **system design & backend architecture**
 * 🔐 Security-first mindset (JWT, RBAC, middleware control)
 * 🏗️ Writing code that stays clean even at scale
@@ -56,7 +56,7 @@ const asrar = {
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database & Tools
@@ -72,7 +72,7 @@ const asrar = {
 ```
 Client (React / Next)
         ↓
-API Layer (Express / Spring Boot)
+API Layer (Node Js / Express)
         ↓
 Business Logic (Services Layer)
         ↓
@@ -116,9 +116,9 @@ Security (JWT + RBAC + Middleware)
 
 ---
 
-## ☕ Spring Boot Projects (Backend Heavy)
 
-### 📚 Course / User Management System
+
+### 📚 Student Management System
 
 * Built with **Spring Boot + JPA**
 * REST APIs with layered architecture
@@ -161,7 +161,7 @@ Security (JWT + RBAC + Middleware)
 ## 🚀 Current Grind
 
 * ⚡ Advanced React patterns & performance
-* ☕ Deep dive into Spring Boot architecture
+* ☕ Deep dive into Node Js 
 * 🔐 Secure authentication systems
 * 🧠 Scaling backend for real-world apps
 
